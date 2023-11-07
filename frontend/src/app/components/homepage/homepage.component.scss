@@ -1,0 +1,19 @@
+.hero-image {
+    background-image: url('../../../assets/analysis-2030261.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    width: 100%; 
+}
+
+body {
+    background-color: red !important;
+}
+
+.team-item img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
